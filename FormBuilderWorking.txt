@@ -1,0 +1,24 @@
+Details of The Project:
+
+Form Builder
+	
+	Description:  A form builder, as name suggests, one can make a custom form and save it which later can be published to different end users. The end users can fill the information required and the information is saved.
+	
+	Working: The user1 should provide a valid username and password which is already saved in a database (for different users). If the authentication is successful, it takes the user1 to the second screen that has two options.
+		
+		a)	Create a new form
+		
+		•	The form has different input types in the left hand side which are draggable and right side is the droppable part where those input types are dropped and edited by providing names, length, required field etc. The user can also add logo by providing the external url.
+		
+		•	Once all the actions are done, user can preview or/and save the form by providing a name to the form. This form is saved in the json format in the second table of that database.
+		
+		b)	Load Saved Form
+		This page has two parts
+		
+		•	Left side has the name of the form saved which the user1 can open with a custom link created. The user1 can publish this form to its customers through the link. Once the form reaches its customers, the customers fills up the information asked and when saves the form, the data filled are saved in the third table of that database. 
+		
+		•	Right side has all the responses saved by the customers against the form. The user1 can click and see all the responses filled by all the customers.
+		
+	Technologies Used: HTML5, CSS3, JQUERY, JSON, JAVA (JAVA-EE Eclipse), MySQL, WampServer 
+
+

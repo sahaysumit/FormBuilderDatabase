@@ -1,0 +1,51 @@
+body {
+	background-color: #ffa500 ;
+	color: black ;
+}
+p, ul, td {
+	/* font-family: Arial, Helvetica, sans-serif ; */
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif ;
+	font-size: 2em ;
+	text-align: center ;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif ;
+	text-align: center ;
+	font-size: 1.4em ;
+	background-color: #f0f0f0 ;
+	color: black ;
+}
+a:link {
+	color: blue ;
+	background: transparent ;
+}
+a:visited {
+	color: purple ;
+	background: transparent ;
+}
+a:hover {
+	color: black ;
+	background: #ff0 ;
+}
+a:active {
+	color: red ;
+	background: transparent ;
+}
+div.mainbody {
+	font-family: Arial, Helvetica, sans-serif ;
+	font-size: 1.1em ;
+	width: 730px ;
+	margin-left: auto ;
+	margin-right: auto ;
+	padding: 10px ;
+	background-color: white ;
+	color: black ;
+	border: 1px solid black ;
+}
+
+div.exampletext {
+	border: 1px solid green ;
+	padding: 10px ;
+}

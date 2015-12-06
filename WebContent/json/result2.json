@@ -1,0 +1,66 @@
+{"formelements:[
+{
+	"num":"ind1",
+	"type":"text",
+    "labell":"name",
+    "choice":""
+},
+{
+	"num":"ind1",
+	"type":"text",
+    "labell":"name",
+    "choice":""
+},
+{
+	"num":"ind1",
+	"type":"password",
+    "labell":"password",
+    "choice":""
+},
+{
+	"num":"ind1",
+	"type":"selectlist",
+    "labell":"place",
+    "choice":[
+    "bangalore",
+     "bombay",
+     "delhi"
+    ]
+},
+{
+	"num":"ind1",
+	"type":"radio",
+    "labell":"place",
+    "choice":[
+    "bangalore",
+     "bombay",
+     "delhi"
+    ]
+},
+
+{
+	"num":"ind1",
+	"type":"checkbox",
+    "labell":"place",
+    "choice":[
+    "bangalore",
+     "bombay",
+     "delhi"
+    ]
+},
+{
+    "num":"ind1",
+    "type":"text",
+    "labell":"name",
+    "choice":""
+},
+{
+    "num":"ind1",
+    "type":"text",
+    "labell":"name",
+    "choice":""
+}
+]
+}
+}
+
